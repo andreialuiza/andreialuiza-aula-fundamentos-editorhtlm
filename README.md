@@ -22,5 +22,5 @@ Este projeto foi construíndo com a inteção de aplicar os fundamentos e concei
 
 # Tecnologias Utilizadas
 
-.NET CORE 6 
-Visual Studio 
+- .NET CORE 6 
+- Visual Studio Code
